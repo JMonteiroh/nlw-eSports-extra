@@ -1,6 +1,6 @@
 # NLW eSports-Extra
  
-Projeto extra conccluido no evento Next Level Week da Rocketseat.
+Projeto extra concluido no evento Next Level Week da Rocketseat.
 
 ![preview](./.github/preview.png)
 
